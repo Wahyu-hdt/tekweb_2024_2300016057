@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+praktikum_3/node_modules/
+
+# Tailwind CSS build output
+public/css/*.css
+
