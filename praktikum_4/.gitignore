@@ -1,6 +1,0 @@
-# Node modules
-node_modules/
-
-# Tailwind CSS build output
-public/css/*.css
-
